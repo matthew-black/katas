@@ -1,6 +1,3 @@
-require 'test/unit'
-extend Test::Unit::Assertions
-
 MATH_ME = {
   "add" => "+",
   "subtract" => "-",
